@@ -21,7 +21,7 @@ Pressed duck is a traditional French dish. Source: [Wikipedia](https://en.wikipe
 
 We were inspired by the late Anthony Bordain's TV/Netflix show *The Layover - Season 1, episode 2, Paris*:
 
-    Anthony Bourdain happily treats himself to a duck press, to bring home to New York. Sadly soon after we saw this episode Anthony Bourdain commited suicide.
+>Anthony Bourdain happily treats himself to a duck press, to bring home to New York. Sadly soon after we saw this episode Anthony Bourdain commited suicide.
 
 In 2013 Hans' dad got ill and we had to travel a lot to provide care for both Hans's parents. We did not always have time to cook ourselves. We did not fancy fastfood, microwave meals or take away meals every day. To eat healthy we sometimes did buy salad meals or eat at not too expensive (sushi) restaurants. Sometimes we threated ourselves on really good restaurants.
 
