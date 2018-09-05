@@ -25,7 +25,7 @@ On this page we list our favorites.
 1. Coffee Together
 2. Simit Sarayi
 
-## Shortlist desserts
+## Desserts
 
 1. ZaZa (Twello)
 2. [IJz en so](https://www.ijzenso.nl/)
