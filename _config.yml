@@ -16,7 +16,7 @@
 title: Canard Presse
 email: hello@canardpresse.reviews
 description: >- # this means to ignore newlines until "baseurl:"
-  Restaurant reviews
+  Food is love, Food is passion but an evening at a restaurant will cost you quickly a week of groceries for a small family
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://canardpresse.reviews" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: canardpresse
