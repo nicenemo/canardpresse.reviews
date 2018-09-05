@@ -16,8 +16,7 @@ we would also love hearing your story.
 
 ## Canard Presse
 
-Canard Presse is named after the French *Canard à la presse*, English
-*Pressed duck* is a traditional French dish. Source: [Wikipedia](https://en.wikipedia.org/wiki/Pressed_duck).
+Canard Presse is named after the French *Canard à la presse*, English *Pressed duck* is a traditional French dish. Source: [Wikipedia](https://en.wikipedia.org/wiki/Pressed_duck).
 
 We were inspired by the late Anthony Bordain's TV/Netflix show *The Layover - Season 1, episode 2, Paris*:
 
