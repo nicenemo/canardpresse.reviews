@@ -46,7 +46,6 @@ We live in the beautiful city of [Deventer](https://en.wikipedia.org/wiki/Devent
 * When a restaurant is in or near Deventer we try to visit it 2 or 3 times before posting a review. (Unless it was horrible or extremely expensive).
 * In general we pay for our meals ourselves.
 * Sometimes Hans has to eat out for a business trip. Meals in restaurants payed by the employer are not threated different.
-* When offered a free meal for whatever reason (only happened once after a bad review) we post that it was sponsored as first sentence.
 * In a more expensive restaurant, we consider whether we could reproduce it ourselves at home. (Technically or economically)
 
 Kind regards,
