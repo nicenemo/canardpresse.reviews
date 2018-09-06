@@ -32,7 +32,6 @@ On this page we list our favorites.
 
 ## Take Away
 
-1. [Trinibra](https://www.trinibra-deventer.nl/)
-2. [Central Kitchen](https://www.centralkitchen.nl/)
-3. [Ceders Steakhouse](https://www.cederssteakhouse.nl/)
-4. [Cafetaria de Work](http://www.cafetariadeworp.nl/)
+1. [Central Kitchen](https://www.centralkitchen.nl/)
+2. [Ceders Steakhouse](https://www.cederssteakhouse.nl/)
+3. [Cafetaria de Work](http://www.cafetariadeworp.nl/)
