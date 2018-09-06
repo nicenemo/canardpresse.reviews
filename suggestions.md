@@ -7,31 +7,32 @@ On this page we list our favorites.
 
 ## More expensive
 
-1. Jackies
-2. Andalusie
-3. De Keizerskroon
-4. Le Thai
-5. Chez Antoinette
-6. Hotel huis Vermeer
+1. [Jackies New York Cuisine](https://www.jackiesnyc.com/)
+2. [Cava Andulusie](https://www.cava-andalusie.nl/)
+3. [De Keizerskroon](https://www.keizerskroondeventer.nl/)
+4. [Le Thai](http://lethai.nl/)
+5. [Chez Antoinette](http://www.chezantoinette.nl/)
+6. [Grand boutique hotel-restaurant Huis Vermeer](https://www.hotelhuisvermeer.nl/)
 
 ## More affordable
 
-1. Mykonos (Twello)
-2. La Sardegna
-3. Waardige Waard
+1. [Mykonos](http://www.mykonostwello.nl/) (Twello)
+2. [La Sardegna](https://goo.gl/maps/MdMUBfFqFT52)
+3. [De Waardige Waard](http://www.waardigewaard.nl/) (Twello)
 
 ## Coffee and lunch
 
-1. Coffee Together
-2. Simit Sarayi
+1. [Coffee Together](https://www.coffeetogether.nl/)
+2. [Simit Sarayi](https://www.simitsarayi.com/en)
 
 ## Desserts
 
-1. ZaZa (Twello)
+1. [ZaZa](http://www.ijssalonzaza.nl/) (Twello)
 2. [IJz en so](https://www.ijzenso.nl/)
 
 ## Take Away
 
-1. Trinibra
-2. Central Kitchen
-3. Ceders
+1. [Trinibra](https://www.trinibra-deventer.nl/)
+2. [Central Kitchen](https://www.centralkitchen.nl/)
+3. [Ceders Steakhouse](https://www.cederssteakhouse.nl/)
+4. [Cafetaria de Work](http://www.cafetariadeworp.nl/)
