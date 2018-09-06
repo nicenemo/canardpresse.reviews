@@ -34,4 +34,4 @@ On this page we list our favorites.
 
 1. [Central Kitchen](https://www.centralkitchen.nl/)
 2. [Ceders Steakhouse](https://www.cederssteakhouse.nl/)
-3. [Cafetaria de Work](http://www.cafetariadeworp.nl/)
+3. [Cafetaria de Worp](http://www.cafetariadeworp.nl/)
