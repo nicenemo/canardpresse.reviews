@@ -1,4 +1,4 @@
 baseURL = "http://canardpresse.reviews"
 languageCode = "en-uk"
 title = "Canard Presse - restaurant reviews"
-theme = "parsa" 
+theme = "ananke" 
