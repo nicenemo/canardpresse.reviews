@@ -2,6 +2,7 @@
 layout: post
 title: "YuMe Sushi Deventer"
 date: 2018-09-05T18:53:20+02:00
+author: "Angela Giesen"
 ---
 
 Yesterday evening we decided to go out grab some sushi at [Yume Sushi Deventer](http://www.yumesushi.nl/deventer/) Boreelplein 52.

@@ -1,6 +1,7 @@
 ---
 title: "About Canard Presse"
 date: 2018-09-05T18:51:26+02:00
+author: "Angela Giesen & Hans Kruse"
 ---
 
 *Food is love, Food is passion but an evening at a restaurant will cost you quickly a week of groceries for a small family*
