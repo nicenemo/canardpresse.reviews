@@ -6,36 +6,20 @@
     <description>Recent content on Canard Presse - restaurant reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 10 Nov 2019 16:40:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 19:24:32 +0200</lastBuildDate>
     
 	<atom:link href="http://canardpresse.reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Post2</title>
-      <link>http://canardpresse.reviews/post2/</link>
-      <pubDate>Sun, 10 Nov 2019 16:40:24 +0100</pubDate>
+      <title>More than a year Stenaline</title>
+      <link>http://canardpresse.reviews/posts/stenaline/</link>
+      <pubDate>Wed, 05 Sep 2018 19:24:32 +0200</pubDate>
       
-      <guid>http://canardpresse.reviews/post2/</guid>
-      <description>aaaaargh another test test ..</description>
-    </item>
-    
-    <item>
-      <title>Testpost</title>
-      <link>http://canardpresse.reviews/testpost/</link>
-      <pubDate>Sun, 10 Nov 2019 15:36:32 +0100</pubDate>
-      
-      <guid>http://canardpresse.reviews/testpost/</guid>
-      <description>build test please ignore. Changes 2.</description>
-    </item>
-    
-    <item>
-      <title>Under Construction: Moving to Hugo blogging platform</title>
-      <link>http://canardpresse.reviews/posts/my_first_post/</link>
-      <pubDate>Sun, 10 Nov 2019 14:05:20 +0100</pubDate>
-      
-      <guid>http://canardpresse.reviews/posts/my_first_post/</guid>
-      <description>We are moving to the Hugo blogging platform. more and regular posts to come.. Until ready this site may look a bit weird and empty.</description>
+      <guid>http://canardpresse.reviews/posts/stenaline/</guid>
+      <description>Stenaline, an efficient relaxed way of traveling to / from England. With a fast train connection to London. Clean cabins. Good food. Friendly staff.
+Read on for a more detailed review. A shorter Dutch version was published on Google Maps reviews earlier.
+I (Hans) have been traveling from the Netherlands to London for business meetings for over a year, every 3 weeks. I prefer the ferry over plane, train or automobile.</description>
     </item>
     
     <item>
