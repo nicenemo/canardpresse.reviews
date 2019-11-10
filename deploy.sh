@@ -5,10 +5,7 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-# Build the project.
-hugo -t ananke
 
-# Go To Public folder
 cd public
 
 if [ -n "$GITHUB_AUTH_SECRET" ]
@@ -23,17 +20,13 @@ then
 fi
 
 
-# Add changes to git.
-git add .
 
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
-git commit -m "$msg"
-
-# Push source and build repos.
+git add .
 git commit -m "Rebuild site"
 git push --force origin HEAD:master
-rm ~/.git-credentials
+rm -f ~/.git-credentials
