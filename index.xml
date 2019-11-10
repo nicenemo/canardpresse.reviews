@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canard Presse - restaurant reviews</title>
+    <link>http://canardpresse.reviews/</link>
+    <description>Recent content on Canard Presse - restaurant reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 10 Nov 2019 14:05:20 +0100</lastBuildDate>
+    
+	<atom:link href="http://canardpresse.reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Under Construction: Moving to Hugo blogging platform</title>
+      <link>http://canardpresse.reviews/posts/my_first_post/</link>
+      <pubDate>Sun, 10 Nov 2019 14:05:20 +0100</pubDate>
+      
+      <guid>http://canardpresse.reviews/posts/my_first_post/</guid>
+      <description>We are moving to the Hugo blogging platform. more and regular posts to come.. Until ready this site may look a bit weird and empty.</description>
+    </item>
+    
+    <item>
+      <title>YuMe Sushi Deventer</title>
+      <link>http://canardpresse.reviews/posts/yumi-sushi-deventer/</link>
+      <pubDate>Wed, 05 Sep 2018 18:53:20 +0200</pubDate>
+      
+      <guid>http://canardpresse.reviews/posts/yumi-sushi-deventer/</guid>
+      <description>Yesterday evening we decided to go out grab some sushi at Yume Sushi Deventer Boreelplein 52.
+Table ✔ Service 💨 We had no reservations and we just walked in. The lady at the counter walked us to our table and left us with nothing, no food, no drink, not even an activation code for the tablet.
+For those that never have been to YuMe they work with a tablet, it needs to be activated to be able to order a drink, Sushi or even to call for assistance.</description>
+    </item>
+    
+    <item>
+      <title>About Canard Presse</title>
+      <link>http://canardpresse.reviews/posts/introduction/</link>
+      <pubDate>Wed, 05 Sep 2018 18:51:26 +0200</pubDate>
+      
+      <guid>http://canardpresse.reviews/posts/introduction/</guid>
+      <description>Food is love, Food is passion but an evening at a restaurant will cost you quickly a week of groceries for a small family
+We are Angela &amp;amp; Hans Kruse and we are here to share our passion for good food. Telling our story, restaurant reviews and more. About what we&amp;rsquo;ve seen. Not only about the food but also about the entire experience.
+ A little disclaimer seems to be nessersarry.</description>
+    </item>
+    
+  </channel>
+</rss>

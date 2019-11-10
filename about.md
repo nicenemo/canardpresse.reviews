@@ -1,4 +1,8 @@
-# About Canard Presse
+---
+layout: page
+title: "About Canard Presse"
+permalink: /about/
+---
 
 *Food is love, Food is passion but an evening at a restaurant will cost you quickly a week of groceries for a small family*
 
