@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "About Canard Presse"
 date: 2018-09-05T18:51:26+02:00
 ---
