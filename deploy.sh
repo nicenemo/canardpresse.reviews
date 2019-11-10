@@ -11,6 +11,16 @@ hugo -t ananke
 # Go To Public folder
 cd public
 
+if [ -n "$GITHUB_AUTH_SECRET" ]
+then
+    touch ~/.git-credentials
+    chmod 0600 ~/.git-credentials
+    echo $GITHUB_AUTH_SECRET > ~/.git-credentials
+
+    git config credential.helper store
+    git config user.email "username-blog-bot@users.noreply.github.com"
+    git config user.name "username-blog-bot"
+fi
 
 
 # Add changes to git.
@@ -26,3 +36,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git commit -m "Rebuild site"
 git push --force origin HEAD:master
+rm ~/.git-credentials
