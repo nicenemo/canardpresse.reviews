@@ -11,6 +11,8 @@ hugo -t ananke
 # Go To Public folder
 cd public
 
+
+
 # Add changes to git.
 git add .
 
@@ -22,4 +24,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git commit -m "Rebuild site"
+git push --force origin HEAD:master
