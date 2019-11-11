@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canard Presse on Canard Presse - restaurant reviews</title>
+    <link>http://canardpresse.reviews/</link>
+    <description>Recent content in Canard Presse on Canard Presse - restaurant reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 11 Nov 2019 21:42:11 +0100</lastBuildDate>
+    
+	<atom:link href="http://canardpresse.reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bla</title>
+      <link>http://canardpresse.reviews/reviews/bla/</link>
+      <pubDate>Mon, 11 Nov 2019 21:42:11 +0100</pubDate>
+      
+      <guid>http://canardpresse.reviews/reviews/bla/</guid>
+      <description>This is a test post 1.</description>
+    </item>
+    
+    <item>
+      <title>More than a year Stenaline</title>
+      <link>http://canardpresse.reviews/reviews/stenaline/</link>
+      <pubDate>Wed, 05 Sep 2018 19:24:32 +0200</pubDate>
+      
+      <guid>http://canardpresse.reviews/reviews/stenaline/</guid>
+      <description>Stenaline, an efficient relaxed way of traveling to / from England. With a fast train connection to London. Clean cabins. Good food. Friendly staff.
+Read on for a more detailed review. A shorter Dutch version was published on Google Maps reviews earlier.
+I (Hans) have been traveling from the Netherlands to London for business meetings for over a year, every 3 weeks. I prefer the ferry over plane, train or automobile.</description>
+    </item>
+    
+    <item>
+      <title>YuMe Sushi Deventer</title>
+      <link>http://canardpresse.reviews/reviews/yumi-sushi-deventer/</link>
+      <pubDate>Wed, 05 Sep 2018 18:53:20 +0200</pubDate>
+      
+      <guid>http://canardpresse.reviews/reviews/yumi-sushi-deventer/</guid>
+      <description>Yesterday evening we decided to go out grab some sushi at Yume Sushi Deventer Boreelplein 52.
+Table ✔ Service 💨 We had no reservations and we just walked in. The lady at the counter walked us to our table and left us with nothing, no food, no drink, not even an activation code for the tablet.
+For those that never have been to YuMe they work with a tablet, it needs to be activated to be able to order a drink, Sushi or even to call for assistance.</description>
+    </item>
+    
+  </channel>
+</rss>
