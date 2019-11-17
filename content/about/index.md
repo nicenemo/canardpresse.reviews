@@ -34,6 +34,51 @@ Initially we started posting reviews on Google maps reviews. We noticed people l
 * Sometimes Hans has to eat out for a business trip. Meals in restaurants payed by the employer are not threated different.
 * In a more expensive restaurant, we consider whether we could reproduce it ourselves at home. (Technically or economically)
 
-Kind regards,
+We live in the beautiful city of [Deventer](https://en.wikipedia.org/wiki/Deventer). We still consider our selves tourists in our home town. Deventer sports a nice selection of good restaurants. A lot of our reviews are about restaurants in or near Deventer. Besides the old medieval city, good food and a nice shopping experience you should also visit Deventer because:
 
+[Dickens festijn](https://dickensfestijn.nl/english/) *Just before christmas* the largest Dickens festival in the world according to the BBC, so it must be true. 
+
+  
+[Deventer op Stelten](https://www.deventeropstelten.nl/index.php/english) *In June or July* A free large open air high quality street theatre festival. With theatre groups from all over Europe.
+
+[Deventer Boekenmarkt](https://www.deventerboekenmarkt.nl/) (In Dutch) *On the first sunday of August* A very large open air book market. Deventer used to be and still is a city of book shops, printing companies and publishers.
+
+
+## Our favorites
+
+There are several restaurants in the Deventer area that we consider our favorites.
+Some are more expensive, some are more affordable.
+
+### More expensive
+
+1. [Jackies New York Cuisine](https://www.jackiesnyc.com/)
+2. [Cava Andulusie](https://www.cava-andalusie.nl/)
+3. [De Keizerskroon](https://www.keizerskroondeventer.nl/)
+4. [Le Thai](http://lethai.nl/)
+5. [Chez Antoinette](http://www.chezantoinette.nl/)
+6. [Grand boutique hotel-restaurant Huis Vermeer](https://www.hotelhuisvermeer.nl/)
+
+### More affordable
+
+1. [Mykonos](http://www.mykonostwello.nl/) *(Twello)*
+2. [La Sardegna](https://goo.gl/maps/MdMUBfFqFT52)
+3. [De Waardige Waard](http://www.waardigewaard.nl/) *(Twello)*
+
+### Coffee and lunch
+
+1. [Coffee Together](https://www.coffeetogether.nl/)
+
+### Desserts
+
+1. [ZaZa](http://www.ijssalonzaza.nl/) *(Twello)*
+2. [IJz en so](https://www.ijzenso.nl/)
+
+### Take away
+
+1. [Trinibra](https://www.trinibra-deventer.nl/) *The restaurant is also nice and affordable*
+2. [Central Kitchen](https://www.centralkitchen.nl/)
+3. [Ceders Steakhouse](https://www.cederssteakhouse.nl/)
+4. [Cafetaria de Worp](http://www.cafetariadeworp.nl/)
+
+Kind regards,
 *2018 Angela & Hans*
