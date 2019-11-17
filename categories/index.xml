@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Canard Presse - restaurant reviews</title>
-    <link>https://canardpresse.reviews/categories/</link>
-    <description>Recent content in Categories on Canard Presse - restaurant reviews</description>
+    <title>Categories on Canard presse</title>
+    <link>https://angelakwak.giesen.org/categories/</link>
+    <description>Recent content in Categories on Canard presse</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
+    <copyright>Copyright © 2014–2019, Angela Giesen &amp; Hans Kruse  all rights reserved.</copyright>
     
-	<atom:link href="https://canardpresse.reviews/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angelakwak.giesen.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

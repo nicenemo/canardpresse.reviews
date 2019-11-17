@@ -3,61 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://canardpresse.reviews/</loc>
+    <loc>https://angelakwak.giesen.org/</loc>
     <lastmod>2018-09-05T19:24:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://canardpresse.reviews/posts/stenaline/</loc>
+    <loc>https://angelakwak.giesen.org/post/stenaline/</loc>
     <lastmod>2018-09-05T19:24:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://canardpresse.reviews/posts/</loc>
+    <loc>https://angelakwak.giesen.org/post/</loc>
     <lastmod>2018-09-05T19:24:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://canardpresse.reviews/posts/yumi-sushi-deventer/</loc>
+    <loc>https://angelakwak.giesen.org/post/yumi-sushi-deventer/</loc>
     <lastmod>2018-09-05T18:53:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://canardpresse.reviews/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://angelakwak.giesen.org/about/</loc>
   </url>
   
   <url>
-    <loc>https://canardpresse.reviews/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://angelakwak.giesen.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://canardpresse.reviews/deventer/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://canardpresse.reviews/suggestions/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://canardpresse.reviews/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://angelakwak.giesen.org/tags/</loc>
   </url>
   
 </urlset>
