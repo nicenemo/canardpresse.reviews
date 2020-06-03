@@ -10,7 +10,6 @@ _Review In Dutch._
 
 Druk druk druk en je moet onderweg toch eten. Mac D. bleh!!! Vanavond aangenaam verrast in Den Bremer, te Toldijk. Je verwacht terug te gaan naar de jaren 70 en wegrestaurant kwaliteit. Er werd echter ouderwets lekker eten geserveerd door enthousiast, attent en correct personeel. Nergens 'cutting corners' om de prijs te drukken.
 
-
 <!--more-->
 
 We rijden redelijk vaak door Toldijk, lintbebouwing met aan de doorgaande weg een café restaurant met terras, serre en feestzaal, zoals je die vaker in dorpen tegenkomt. Meestal is het interieur versleten stoffig en zijn de vaste gasten op leeftijd of inmiddels overleden. Vaak zit de zaak ook tegen een faillissement aan. Zo niet, in Toldijk, bij den Bremer. Het is druk, erg druk. Parkeerplaats vol, o jee we zijn wedding crashers. Er zijn, zo blijkt later, twee feesten aan de gang. In het restaurant is nog plek ook al is het daar druk. We zitten in de serre.
