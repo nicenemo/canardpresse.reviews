@@ -6,7 +6,10 @@ Author: "Hans Kruse"
 Address: "Emmerikseweg 37, 7227 DG Toldijk, the Netherlands"
 Website: "https://www.denbremer.nl/cafe/"
 ---
+_Review In Dutch._
+
 Druk druk druk en je moet onderweg toch eten. Mac D. bleh!!! Vanavond aangenaam verrast in Den Bremer, te Toldijk. Je verwacht terug te gaan naar de jaren 70 en wegrestaurant kwaliteit. Er werd echter ouderwets lekker eten geserveerd door enthousiast, attent en correct personeel. Nergens 'cutting corners' om de prijs te drukken.
+
 
 <!--more-->
 
