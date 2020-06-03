@@ -10,7 +10,7 @@ Druk druk druk en je moet onderweg toch eten. Mac D. bleh!!! Vanavond aangenaam 
 
 <!--more-->
 
-We rijden redelijk vaak door Toldijk, lintbebouwing met aan de doorgaande weg een café restaurant met terras, serre en feestzaal, zoals je die vaker in dorpen tegenkomt. Meestal is het interieur versleten stoffig en zijn de vaste gasten op leeftijd of inmiddels overleden. Vaak zit de zaak ook tegen een faillissement aan. Zo niet, in Toldijk, bij den Bremer. Op zondag 8 November 2015 rond 18:00. Het is druk erg druk. Parkeerplaats vol, o jee we zijn wedding crashers. Er zijn zo blijkt later twee feesten aan de gang maar in het restaurant is nog plek ook al is het daar druk. We zitten in de serre.
+We rijden redelijk vaak door Toldijk, lintbebouwing met aan de doorgaande weg een café restaurant met terras, serre en feestzaal, zoals je die vaker in dorpen tegenkomt. Meestal is het interieur versleten stoffig en zijn de vaste gasten op leeftijd of inmiddels overleden. Vaak zit de zaak ook tegen een faillissement aan. Zo niet, in Toldijk, bij den Bremer. Het is druk erg druk. Parkeerplaats vol, o jee we zijn wedding crashers. Er zijn zo blijkt later twee feesten aan de gang maar in het restaurant is nog plek ook al is het daar druk. We zitten in de serre.
 
 Het interieur is modern, van deze tijd. De foto van de serre op de website is verouderd. De gasten zijn over het algemeen van respectabele leeftijd. De kaart suggereert ouderwets en we vrezen taai vlees met verlepte friet en veel zooi uit een pakje.We beginnen met een druivensap en een warme chocomel. Bij de chocomel wordt echte slagroom geserveerd. Het wordt al beter.
 
