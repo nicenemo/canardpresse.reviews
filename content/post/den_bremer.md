@@ -14,11 +14,9 @@ We rijden redelijk vaak door Toldijk, lintbebouwing met aan de doorgaande weg ee
 
 Het interieur is modern, van deze tijd. De foto van de serre op de website is verouderd. De gasten zijn over het algemeen van respectabele leeftijd. De kaart suggereert ouderwets. We vrezen taai vlees met verlepte friet en veel zooi uit een pakje. We beginnen met een druivensap en een warme chocomel. Bij de chocomel wordt echte slagroom geserveerd. Het wordt al beter.
 
-Als voorgerecht kregen we runder ragout en paddenstoelen ragout. Beide klassiek geserveerd met een bakje van bladerdeeg. Erg lekker en zelfs het bakje leek huis gemaakt.  
+Als voorgerecht kregen we runder ragout en paddenstoelen ragout. Beide klassiek geserveerd met een bakje van bladerdeeg. Erg lekker en zelfs het bakje leek huis gemaakt. Als hoofdgerecht een runder stoofpot en schnitzel. Als groente werd er klassiek klaargemaakte rode kool en kleine tuinboontjes met spek geserveerd. Zijn die tuinbonen ook apart te bestellen? zo lekker!! Verder knapperig patat, aardappelen met echte mayonaise. Als nagerecht een modern geserveerde bavarois met een ouderwetse lange vinger. De slagroom was een andere dan bij de Chocomel. 
 
-Als hoofdgerecht een runder stoofpot en schnitzel. Als groente werd er klassiek klaargemaakte rode kool en kleine tuinboontjes met spek geserveerd. Zijn die tuinbonen ook apart te bestellen? zo lekker!! Verder knapperig patat, aardappelen met echte mayonaise.  
-
-Als toetje een modern geserveerde bavarois met een ouderwetse lange vinger. De slagroom was een andere dan bij de Chocomel. Eén min puntje, de porties en stukken vlees zijn een beetje groot... En dan komen ze ook nog vriendelijk vragen of er voldoende groente en aardappelen zijn.  
+Eén min puntje, de porties en stukken vlees zijn een beetje groot... En dan komen ze ook nog vriendelijk vragen of er voldoende groente en aardappelen zijn.  
 
 Niet geprobeerd, de lokaal gebrouwen bieren, ik drink geen alcohol en moet rijden. De bieren zagen er interessant uit. Den Bremer bestond al in de middeleeuwen, als herberg, aan een Hanze route. Nu ben ik nieuwsgierig wat er toen op de kaart stond.
 
