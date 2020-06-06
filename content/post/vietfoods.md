@@ -8,12 +8,13 @@ Author: "Hans Kruse"
 
 
 Voor het eerst Vietnamese koffie gehad bij Vietfoods in Deventer. Wow, lekker. Ik ben fan. Ze zouden dit zo op een zaterdag ochtend kunnen serveren met een Vietnamees Frans ontbijt.
-Vanaf het terras met een krantje de drukte op de markt bekijken. Helaas serveert VietFoods alleen diner of lunch. Vietnamese koffie smaakt echt anders dan Espresso, French-press of filter koffie.
-De smaak is zoet, zacht, fruitig met een vleugje cacao. Zoals gezegd ook lekker met ontbijt of met gedroogde abrikozen gedompeld in Ruby chocolade.
+O<!--more-->
 
-Vietnam is de 2e koffie producent ter wereld. Helaas nog geen Vietnamese koffie in de supermarkt gezien. Ik weet wat er op mijn Sinterklaas verlanglijstje staat. Vietnamese koffie en 2 van die filters.
+Vanaf het terras met een krantje de drukte op de markt bekijken. Helaas serveert VietFoods alleen diner of lunch. Vietnamese koffie smaakt echt anders dan Espresso, 
+French-press of filter koffie. De smaak is zoet, zacht, fruitig met een vleugje cacao. Zoals gezegd ook lekker met ontbijt of met gedroogde abrikozen gedompeld in Ruby chocolade.
 
-[Uitleg Vietnamese koffie op YouTube]( https://youtu.be/_DwPGkq8SFE)
+Vietnam is de 2e koffie producent ter wereld. Helaas nog geen Vietnamese koffie in de supermarkt gezien. Ik weet wat er op mijn Sinterklaas verlanglijstje staat. 
+Vietnamese koffie en 2 van die filters. [Uitleg Vietnamese koffie op YouTube]( https://youtu.be/_DwPGkq8SFE)
 
 
 ![iVietfoods](https://photos.app.goo.gl/yJsZ8rAjSLTtWoWY8)
