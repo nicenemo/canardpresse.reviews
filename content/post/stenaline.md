@@ -8,6 +8,8 @@ Stenaline, an efficient relaxed way of travelling to / from England. With a fast
 
 Read on for a more detailed review. A shorter Dutch version was published on Google Maps reviews earlier.
 
+<!--more-->
+
 I (Hans) have been travelling from the Netherlands to London for business meetings for over a year, every 3 weeks. I prefer the ferry over plane, train or automobile.
 
 ## Plane and hotel annoyances
