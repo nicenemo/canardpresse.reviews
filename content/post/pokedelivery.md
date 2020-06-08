@@ -11,7 +11,7 @@ tags:
  - pokebowl
 Author: "Hans Kruse"
 ---
- Both the salmon and chicken poké-bowls were super delicious. POKéLIVERY goes on our short list. Fresh components, even a very good quality jasmin rice. More than enough for two. Affordable.
+ Both the salmon and chicken poké-bowls were super delicious. POKéLIVERY goes on our short list. Fresh components, even a very good quality jasmin rice. More than enough for two. With Real wasabi. Affordable.
 
 <!--more-->
 
@@ -19,7 +19,7 @@ After a rainy Sunday afternoon of study and household chores, I did not feel lik
 
 The bowls were delivered on time and what a pleasant surprise they were! Two bowls filled to the rim with fresh vegetables, fruit, salmon and chicken. Fresh, nicely cut, not brown or bitter pieces. The fruit was ripe. On top a super tasteful dressing. On the bottom was a good quality jasmin rice. I think we shop at the same wholesale shop for rice, it tasted the same as what I have at home. The bowls came with a friendly business card, that made me smile.
 
-We ordered two bowls were we could choose our own ingredients. One salmon bowl with lots of vegetables, the other with chicken and more fruit. The standard amount of fish or meat is enough for a healthy meal. You can order extra meat or fish if you fancy that.
+We ordered two bowls were we could choose our own ingredients. One salmon bowl with lots of vegetables, the other with chicken and more fruit. The standard amount of fish or meat is enough for a healthy meal. You can order extra meat or fish if you fancy that. It camw with real wasabi. We appreciate that!
 
 If I must make a comment, it is on the speed of delivery. The little containers of soya sauce were all bubbly. The lids of the bowls had more sauce on the inside than needed. It is not sushi but with some more careful driving, the presentation can look a lot better.
 There is never a need to drive like a maniac.
