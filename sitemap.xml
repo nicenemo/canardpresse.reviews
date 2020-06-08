@@ -4,16 +4,31 @@
   
   <url>
     <loc>https://canardpresse.reviews/</loc>
-    <lastmod>2018-09-05T19:24:32+02:00</lastmod>
+    <lastmod>2020-06-07T20:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://canardpresse.reviews/post/stenaline/</loc>
-    <lastmod>2018-09-05T19:24:32+02:00</lastmod>
+    <loc>https://canardpresse.reviews/tags/pokebowl/</loc>
+    <lastmod>2020-06-07T20:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canardpresse.reviews/post/pokedelivery/</loc>
+    <lastmod>2020-06-07T20:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://canardpresse.reviews/post/</loc>
+    <lastmod>2020-06-07T20:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canardpresse.reviews/tags/</loc>
+    <lastmod>2020-06-07T20:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canardpresse.reviews/post/stenaline/</loc>
     <lastmod>2018-09-05T19:24:32+02:00</lastmod>
   </url>
   
@@ -33,10 +48,6 @@
   
   <url>
     <loc>https://canardpresse.reviews/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://canardpresse.reviews/tags/</loc>
   </url>
   
 </urlset>
