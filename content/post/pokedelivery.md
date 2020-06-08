@@ -21,7 +21,7 @@ The bowls were delivered on time and what a pleasant surprise they were! Two bow
 
 We ordered two bowls were we could choose our own ingredients. One salmon bowl with lots of vegetables, the other with chicken and more fruit. The standard amount of fish or meat is enough for a healthy meal. You can order extra meat or fish if you fancy that.
 
-If I have must make a comment, it is on the speed of delivery. The little containers of soya sauce were all bubbly. The lids of the bowls had more sauce on the inside than needed. It is not sushi but with some more careful driving the presentation can look a lot better.
+If I must make a comment, it is on the speed of delivery. The little containers of soya sauce were all bubbly. The lids of the bowls had more sauce on the inside than needed. It is not sushi but with some more careful driving the presentation can look a lot better.
 There is never a need to drive like a maniac.
 
 Another comment is, the plastic straw that came with the shake was firmly attached with tape, impossible to remove without destroying it. Please just stick it in the bag, no tape needed. We used our own metal straw. I think non-plastic straws would better suit the image of the restaurant.
