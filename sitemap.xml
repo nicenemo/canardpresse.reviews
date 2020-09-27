@@ -43,11 +43,35 @@
   </url>
   
   <url>
+    <loc>https://canardpresse.reviews/recipes/amuse_champignon/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canardpresse.reviews/recipes/butternut_squash_with_cocos/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canardpresse.reviews/recipes/butternut_squash_with_eal/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canardpresse.reviews/recipes/grilled_vegetables_with_tomatosauce/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://canardpresse.reviews/about/</loc>
   </url>
   
   <url>
     <loc>https://canardpresse.reviews/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://canardpresse.reviews/recipes/</loc>
   </url>
   
 </urlset>
